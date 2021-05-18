@@ -1,0 +1,6 @@
+draw_self()
+draw_set_color(c_black)
+draw_set_font(F_02)
+draw_set_halign(fa_right)
+draw_set_valign(fa_bottom)
+draw_text(x,y, "Siguiente")

@@ -1,0 +1,23 @@
+Send_Data_Web_Php___:http://ae-gec.com/Lcsia_Data/Data.php
+Trials_Number_______:129
+Trials_ITI__________:.5
+Initial_Score_______:0
+Cards_Total_Lose____:1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,3,3,3,3,3,3,3,3,3,
+Msn_Your_Name_______:Nombre:
+Msn_Start___________:Iniciar
+Msn_Continue________:Continuar
+Msn_Total_Cards_Lose:Cartas Perdida
+Msn_Cards_Gain______:Ganancia
+Msn_Cards_Lose______:Perdida   
+Msn_Score___________:Puntos
+Msn_Save_Score______:Guardar Puntos
+Msn_Round_Counter___:Ronda
+Msn_Next_Round______:Siguiente Ronda
+Msn_Correcto:Correcto
+Msn_Incorrecto:Incorrecto
+Msn_Instructions_1_0:Antes de iniciar con esta actividad, realizarás un ejercicio para que te familiarices con los numeros pares e impares
+Msn_Instructions_2_0:A continuación, indicaras si el numero que aparece en el centro de la pantalla pertenece a la categoria "Par", presionando la tecla "P". O si se pertenece a la categoria "IMPAR", presionando la tecla "I" 
+Msn_Instructions_3_0:Por favor, coloca tus deods índice y Medio de la mano derecha en las teclas "P"(Pares) e "I"(Impares).
+
+
+ 
