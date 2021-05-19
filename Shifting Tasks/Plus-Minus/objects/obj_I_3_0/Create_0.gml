@@ -1,0 +1,1 @@
+txt= "A continuacion, podras ver un ejemplo sobre #como responderas la actividad. Recuerda #que sumaras 3 a cada numero y el resultado #lo coloraras en su cuadro correspondiente"

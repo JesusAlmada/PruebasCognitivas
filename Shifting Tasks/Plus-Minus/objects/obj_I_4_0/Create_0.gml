@@ -1,0 +1,1 @@
+txt = " En seguida, se te mostraran una serie de #numeros para practicar. trata de responder #lo mas rapido que puedas."

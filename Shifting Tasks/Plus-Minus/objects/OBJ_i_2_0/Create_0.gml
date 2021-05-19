@@ -1,0 +1,1 @@
+txt= "Comenzaras con la lista de numeros a la que #le sumaras 3 a cada numero. pero antes de #comenzar pon atencion en el siguiente #recordatorio de como sumar"
