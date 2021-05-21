@@ -1,0 +1,1 @@
+txt="* En esta actividad se te mostrarán varias #letras, en el centro de la pantalla. # #*Cada letra aparecera una por una. # #*Comenzará con un asterisco (*). # #*Terminará con 4 cuadros en blanco."

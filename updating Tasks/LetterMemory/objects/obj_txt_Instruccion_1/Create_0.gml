@@ -1,0 +1,1 @@
+txt="*Cuando estos cuadros aparezcan tendrás # que escribir las ultimas 4 letras mostradas. # #* Respetando el orden en que fueron # apareciendo."
