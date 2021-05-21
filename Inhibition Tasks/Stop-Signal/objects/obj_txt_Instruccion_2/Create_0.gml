@@ -1,0 +1,1 @@
+txt= "*En este caso la letra #es Q. Así que la tecla #que presionarías #seria la tecla <<Q>>."

@@ -1,0 +1,1 @@
+txt= "Recuerda solo presionar:# #Tecla <<Q>>: Letra Q #Tecla <<P>>: Letra P:"

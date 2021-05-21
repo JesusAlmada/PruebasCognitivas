@@ -1,0 +1,1 @@
+txt="En este caso el Color #de la figura es azul. Así #que la tecla que #presionaras seria la #tecla <<A>> (Azul)."

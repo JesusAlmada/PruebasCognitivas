@@ -1,0 +1,1 @@
+txt= "Ahora, se te mostrarán una serie de letras para #practicar. trata de responder lo mas rápido que #puedas."

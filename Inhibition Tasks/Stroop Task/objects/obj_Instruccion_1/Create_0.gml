@@ -1,0 +1,1 @@
+txt = "Deberás Presionar la tecla que corresponda al # Color."

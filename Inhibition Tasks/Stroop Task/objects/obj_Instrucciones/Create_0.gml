@@ -1,0 +1,1 @@
+txt="En esta actividad se te mostrarán una serie de #Figuras y palabras en distintos colores en la #Pantalla."

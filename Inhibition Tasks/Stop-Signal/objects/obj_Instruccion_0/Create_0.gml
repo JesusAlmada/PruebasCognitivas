@@ -1,0 +1,1 @@
+txt="A continuación, se te presentarán algunas #letras en la pantalla, deberás presionar la tecla #que corresponda a la letra. Cuando aparezca la #letra <<Q>> presionaras la tecla <<Q>>, cuando #aparezca la letra <<P>> presionaras la tecla <<P>>."

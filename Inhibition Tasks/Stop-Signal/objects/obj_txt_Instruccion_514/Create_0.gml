@@ -1,0 +1,1 @@
+txt= "!Muy bien¡ Terminaste todos los ejercicios de #práctica. Ahora va a comenzar la actividad. se #deja´ra de indicar cuando la respuesta sea #correcta o incorrecta. has tu mejor esfuerzo y #trata de respoinder lo mas rápido posible."

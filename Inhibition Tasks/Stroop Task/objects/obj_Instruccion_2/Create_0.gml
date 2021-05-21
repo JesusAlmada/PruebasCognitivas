@@ -1,0 +1,1 @@
+txt = "Recuerda solo presionar: #Tecla <<R>>: Rojo #Tecla <<V>>: Verde #Tecla <<A>>: Azul #Tecla <<N>>: Naranja #Tecla <<C>>: Café #Tecla <<M>>: Morado"

@@ -1,0 +1,1 @@
+txt= "*A continuación se te mostrara un ejemplo de #como se presenta la letra, asi como la manera #de responder." 
