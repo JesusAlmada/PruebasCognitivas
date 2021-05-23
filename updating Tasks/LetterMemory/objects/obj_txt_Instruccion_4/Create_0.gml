@@ -1,0 +1,1 @@
+txt=" *!Muy bien¡ Ahora va a comenzar la #actividad. # # *Así que se dejaran de mostrar las #respuestaes correctas. # # *Haz tu mejor Esfuerzo."

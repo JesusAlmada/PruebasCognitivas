@@ -1,1 +1,1 @@
-txt = " En seguida, se te mostraran una serie de #numeros para practicar. trata de responder #lo mas rapido que puedas."
+txt = " En seguida, se te mostrarán una serie de #números para practicar. trata de responder #lo más rapido que puedas."

@@ -1,0 +1,1 @@
+txt = "!Muy bien¡ Terminaste todos los ejercicios de #práctica. Ahora va a comenzar la actividad. # Así que, se dejará de mostrar el signo de <<más>> #(+) y las respuestas correctas e incorrectas. #Haz tu mejor esfuerzo y trata de responder lo #más rápido posible."

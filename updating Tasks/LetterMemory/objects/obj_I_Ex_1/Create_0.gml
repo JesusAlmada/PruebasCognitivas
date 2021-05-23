@@ -1,0 +1,1 @@
+txt=" A continuación, podrás ver un ejemplo sobre #cómo responder la actividad."

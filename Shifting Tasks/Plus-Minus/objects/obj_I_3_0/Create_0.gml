@@ -1,1 +1,1 @@
-txt= "A continuacion, podras ver un ejemplo sobre #como responderas la actividad. Recuerda #que sumaras 3 a cada numero y el resultado #lo coloraras en su cuadro correspondiente"
+txt= "A continuación, podrás ver un ejemplo sobre #cómo responderás la actividad. Recuerda #que sumarás 3 a cada número y el resultado #lo colorarás en su cuadro correspondiente"

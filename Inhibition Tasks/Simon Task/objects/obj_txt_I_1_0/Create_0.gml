@@ -1,0 +1,1 @@
+txt="La siguiente actividad consiste en lo siguiente: se te mostrarán flechas #en distintas partes de la pantalla."

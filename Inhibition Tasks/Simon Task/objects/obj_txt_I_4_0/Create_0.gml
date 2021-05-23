@@ -1,0 +1,1 @@
+txt="Observa que deberás presionar la <<tecla flecha #Izquierda>>, cuando la flecha apunte a la #izquierda."

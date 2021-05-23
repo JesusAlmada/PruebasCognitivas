@@ -1,0 +1,1 @@
+txt="Respuesta:             B    S    K    R"

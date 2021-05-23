@@ -1,1 +1,1 @@
-txt= "Comenzaras con la lista de numeros a la que #le sumaras 3 a cada numero. pero antes de #comenzar pon atencion en el siguiente #recordatorio de como sumar"
+ txt= "Comenzarás con la lista de números a la que #le sumarás 3 a cada número. pero antes de #comenzar pon atención en el siguiente #recordatorio de como sumar"

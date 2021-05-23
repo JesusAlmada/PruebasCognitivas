@@ -1,0 +1,1 @@
+txt="Antes de iniciar, para que te familiarices con las teclas que utilizarás #realizarás unos ejercicios de práctica." 

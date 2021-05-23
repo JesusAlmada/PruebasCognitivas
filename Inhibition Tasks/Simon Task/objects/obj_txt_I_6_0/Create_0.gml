@@ -1,0 +1,1 @@
+txt="Recuerda solo presionar: #Tecla <<flecha Izq>>: Flecha Izquierda #Tecla <<Flecha Der>>: Flecha derecha"

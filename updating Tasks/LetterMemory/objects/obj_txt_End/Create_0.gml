@@ -1,0 +1,1 @@
+txt="!Excelente trabajo¡ Lo hiciste muy bien. #Has terminado con esta tarea."
